@@ -1,0 +1,7 @@
+[user]
+	name = torrance
+	email = torrancel42@gmail.com
+[help]
+	autocorrect = 1
+[core]
+	editor = vim
